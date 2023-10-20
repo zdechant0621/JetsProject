@@ -1,0 +1,3 @@
+Cargo, model, speed, range, price
+Fight, fighter model, speed, range, price
+Passenger, model, speed, range, price
